@@ -3,4 +3,4 @@ HanZ Resolusi
 - Membuat platform untuk membuat program
 - Membuat forum diskusi
 - Membuat web yang menurut saya baik
-- Kolaborasi dengan lebih banyak expert
+- Membuat aplikasi
